@@ -1,5 +1,7 @@
 ---
 permalink: /events/
+ref: events
+lang: en
 ---
 
 # Events

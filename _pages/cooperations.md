@@ -1,5 +1,7 @@
 ---
 permalink: /cooperations/
+ref: cooperations
+lang: en
 ---
 
 # Cooperations
